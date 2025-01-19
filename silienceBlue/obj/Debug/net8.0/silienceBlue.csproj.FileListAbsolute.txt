@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\silienceBlue\silienceBlue\bin\Debug\net8.0\silienceBlue.exe
+C:\Users\User\source\repos\silienceBlue\silienceBlue\bin\Debug\net8.0\silienceBlue.deps.json
+C:\Users\User\source\repos\silienceBlue\silienceBlue\bin\Debug\net8.0\silienceBlue.runtimeconfig.json
+C:\Users\User\source\repos\silienceBlue\silienceBlue\bin\Debug\net8.0\silienceBlue.dll
+C:\Users\User\source\repos\silienceBlue\silienceBlue\bin\Debug\net8.0\silienceBlue.pdb
+C:\Users\User\source\repos\silienceBlue\silienceBlue\obj\Debug\net8.0\silienceBlue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\silienceBlue\silienceBlue\obj\Debug\net8.0\silienceBlue.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\silienceBlue\silienceBlue\obj\Debug\net8.0\silienceBlue.AssemblyInfo.cs
+C:\Users\User\source\repos\silienceBlue\silienceBlue\obj\Debug\net8.0\silienceBlue.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\silienceBlue\silienceBlue\obj\Debug\net8.0\silienceBlue.dll
+C:\Users\User\source\repos\silienceBlue\silienceBlue\obj\Debug\net8.0\refint\silienceBlue.dll
+C:\Users\User\source\repos\silienceBlue\silienceBlue\obj\Debug\net8.0\silienceBlue.pdb
+C:\Users\User\source\repos\silienceBlue\silienceBlue\obj\Debug\net8.0\silienceBlue.genruntimeconfig.cache
+C:\Users\User\source\repos\silienceBlue\silienceBlue\obj\Debug\net8.0\ref\silienceBlue.dll
